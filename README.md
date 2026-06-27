@@ -9,4 +9,4 @@ Designed a deep Encoder-Decoder architecture using Keras/TensorFlow, optimized w
 Applied threshold-based classification on reconstruction error to flag fraud
 Evaluated with Classification Report, Confusion Matrix, and Reconstruction Error Distribution plots
 
-Tech Stack: Python · TensorFlow/Keras · Scikit-learn · Pandas · Matplotlib · Seaborn
+Tech Stack: Python · TensorFlow/Keras · Scikit-learn · Pandas · Matplotlib 
